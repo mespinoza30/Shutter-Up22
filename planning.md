@@ -1,5 +1,5 @@
 # Shutter-up!
-A blurb about your project; what is it?
+Where photographers share their images.
 
 ## Motivation
 What motivated me to make this app was that there are a lot of platforms for people to share pictures that they take, but very few where photographers, from all expertise levels, can share their images. Additionally, this will allow photographers to share feedback or give advice on how to better the image.
